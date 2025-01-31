@@ -7,7 +7,7 @@
 
 
 ## ⏳ What I'm doing now:
-I'm developing a project for Redmi Note 7 🚀.
+I'm developing and fixing problems on EDK2 for Redmi Note 7 🚀.
 <br />
 
 ### 📩 Connect with me:
