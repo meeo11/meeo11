@@ -32,7 +32,7 @@ I'm developing and fixing problems on EDK2 for Redmi Note 7 🚀.
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/meeo11._
+[instagram]: https://www.instagram.com/lyntax_
 [gmail]: mailto:cgorkem704@gmail.com
 [vsCode]: https://code.visualstudio.com/
 [github]: https://github.com/meeo11
