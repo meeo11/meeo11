@@ -13,7 +13,6 @@ I'm developing and fixing problems on EDK2 for Redmi Note 7 🚀.
 ### 📩 Connect with me:
 
 [<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/48168dc3cb093fba153af35248e1a54db5b08494/public/icons/instagram/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/48168dc3cb093fba153af35248e1a54db5b08494/public/icons/gmail/gmail.svg" />][gmail]
 
 <br />
 
@@ -32,8 +31,7 @@ I'm developing and fixing problems on EDK2 for Redmi Note 7 🚀.
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/lyntax_
-[gmail]: mailto:cgorkem704@gmail.com
+[instagram]: https://instagram.com/lyntax_
 [vsCode]: https://code.visualstudio.com/
 [github]: https://github.com/meeo11
 [python]: https://www.python.org/
