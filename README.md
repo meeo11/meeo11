@@ -1,13 +1,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a ROM builder 🚀, and TWRP builder.
-- 🔭 I’m currently working EDK2 for Redmi Note 7.
-- 🌱 I’m currently learning nothing for now :D.
-- ⚡ Fun fact: I love building ROMs. It's my hobby.
-
+- 🔭 I’m currently working on Smas**noKnox** Glablyatx A15 4G.
+- 🌱 I’m currently learning Python.
+- ⚡ Fun fact: I love building recoveries and tech talks.
 
 ## ⏳ What I'm doing now:
-I'm developing and fixing problems on EDK2 for Redmi Note 7 🚀.
+Nothing :D 🚀.
 <br />
 
 ### 📩 Connect with me:
