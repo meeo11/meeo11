@@ -1,4 +1,4 @@
-![img0_3840x2160](https://github.com/user-attachments/assets/ce9552f0-babb-41db-8828-f637ed066d65)
+![img0_3840x2160](https://github.com/user-attachments/assets/30dc89d5-4487-4bf1-9d21-549d691471f4)
 
 ## 😁 I'm just a chill guy!
 - 🔭 I’m currently working on Custom ROMs.
